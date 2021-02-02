@@ -49,7 +49,7 @@ Trying to use the diesel command in a new cmd provided me the error of "LIBPQ.DL
 
 This wasn't the solution so I ended up googling a bit more.
 
-### SOLUTION:
+#### SOLUTION:
 Adding both the postgresql bin and lib folders to my environment path.
 
 ### ISSUE nr 4: postgres
@@ -58,6 +58,3 @@ I have problems understanding docker and how postgres interacts with docker. It 
 Since I've never actually used docker before I decided to look up some tutorials on this. 
 
 I found [this](https://www.youtube.com/watch?v=Qw9zlE3t8Ko) short tutorial on how docker-compose.yml's work.
-
-After watching this youtube video I 
-
