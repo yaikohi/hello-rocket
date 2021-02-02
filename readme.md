@@ -1,3 +1,8 @@
+# What is this?
+A repo for me to show to peers what I have been up to. I am planning on writing an API for my upcoming portfolio website but for now it's still something I am learning about. So to prove that I have been working on something I have created a repository on github. 
+
+I am working through [this](https://www.youtube.com/watch?v=tjH0Mye8U_A) youtube tutorial by [Genus-v Programming](https://www.youtube.com/c/GenusvProgramming/about) ([link](https://github.com/nemesiscodex/hello-rocket) to his github repo) and figuring out why what won't work when it doesn't. I wrote down what didn't work for me in this file so that I can traceback to how I solved some problems I had when following the tutorial. 
+
 
 # Goal
 To learn about rust programming, rocker, setting up API's, docker, CLI, diesel.
